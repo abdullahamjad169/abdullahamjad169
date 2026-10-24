@@ -1,25 +1,161 @@
-
-<!-- ================================================== -->
-<!--                 PREMIUM HERO                       -->
-<!-- ================================================== -->
+<!-- ================= HERO BANNER ================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:0F2440,70:075985,100:06B6D4&text=THINK.%20BUILD.%20EVOLVE.&fontSize=35&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Think Build Evolve" />
+<a href="#about">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:030712,40:0b1329,75:1e1b4b,100:0f172a&height=190&section=header&text=Hello%20G!&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Somewhere%20between%20soul%20and%20syntax.&descSize=16&descAlignY=62&animation=fadeIn" alt="Hello G! Somewhere between soul and syntax." />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Full+Stack+Development;Building+Ideas+Into+Digital+Experiences" alt="Animated developer tagline" />
+<a href="#about">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Flutter+%26+Dart+%E2%80%A2+Mobile+Development;Full+Stack+Development+%E2%80%A2+Web+Applications;Turning+Ideas+Into+Clean+Working+Software" alt="Developer roles" />
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/abdullahamjad169">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+<a href="#about">
+  <img src="https://img.shields.io/badge/FOCUS-Mobile%20%26%20Web-0891B2?style=flat-square" alt="Focus" />
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+&nbsp;
+<a href="#stack">
+  <img src="https://img.shields.io/badge/STACK-Flutter%20%26%20FullStack-0F172A?style=flat-square" alt="Stack" />
 </a>
-<a href="https://github.com/abdullahamjad169?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+&nbsp;
+<a href="#projects">
+  <img src="https://img.shields.io/badge/PROJECTS-Explore-0F172A?style=flat-square" alt="Projects" />
 </a>
+&nbsp;
+<a href="#stats">
+  <img src="https://img.shields.io/badge/STATS-GitHub-0F172A?style=flat-square" alt="Stats" />
+</a>
+
+<br/><br/>
+
+<svg width="110" height="110" viewBox="0 0 110 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Scroll down indicator">
+  <defs>
+    <linearGradient id="scrollGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect x="22" y="15" width="66" height="80" rx="22" fill="none" stroke="url(#scrollGrad)" stroke-width="3"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 8; 0 0" dur="1.2s" repeatCount="indefinite"/>
+    <path d="M55 35 L55 58" stroke="url(#scrollGrad)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M42 46 L55 59 L68 46" fill="none" stroke="url(#scrollGrad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
+
+</div>
+
+---
+
+<a id="about"></a>
+
+## 👋 About Me
+
+I'm **Abdullah Amjad**, an IT student and developer focused on engineering reliable mobile and web applications.
+
+- 📱 **Mobile Development:** Building cross-platform apps using **Flutter & Dart**.
+- 🌐 **Web Engineering:** Developing responsive web applications with modern frontend frameworks.
+- ⚙️ **Backend & APIs:** Designing server-side logic, RESTful APIs, and database structures.
+- 🚀 **Clean Code:** Focusing on maintainability, modular architecture, and intuitive user experiences.
+- 💡 **Philosophy:** *"Somewhere between soul and syntax."* Building software that solves problems in a clean and practical way.
+
+> I enjoy learning by building, refining my development workflow, and turning concepts into robust digital products.
+
+---
+
+<a id="stack"></a>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart" />
+
+<br/><br/>
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="HTML, CSS, JavaScript, React and Next.js" />
+
+<br/><br/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Node.js, Express, MongoDB and PostgreSQL" />
+
+<br/><br/>
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+
+</div>
+
+---
+
+<a id="projects"></a>
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile Applications
+Cross-platform applications engineered with **Flutter & Dart**, featuring structured state management and clean interface design.
+
+**Focus:** Mobile Development · Clean Architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+Full-stack and frontend web solutions designed for responsive layouts, smooth performance, and clear user experiences.
+
+**Focus:** Web Engineering · Component Design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & API Services
+Backend services handling application routing, data flows, business logic, and API communications.
+
+**Built with:** Node.js · Express · REST APIs · Databases
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Open Source & Experiments
+A growing collection of coding experiments, architecture exercises, and developer tools.
+
+**Focus:** Problem Solving & Continuous Learning
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/abdullahamjad169?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  </a>
+</div>
+
+---
+
+<a id="stats"></a>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamjad169&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -29,116 +165,67 @@
 
 ---
 
-<!-- ================================================== -->
-<!--                    ABOUT                           -->
-<!-- ================================================== -->
+## 🎯 Currently Exploring
 
 <div align="center">
 
-## ABOUT ME
-
-**Abdullah Amjad** · IT Student · Developer
-
-Mobile applications • Web development • Continuous learning
+| Area | Focus |
+|:---|:---|
+| 📱 **Flutter** | Cross-platform mobile architecture & state management |
+| 🌐 **Full Stack** | Seamless client-server communication & responsive web apps |
+| 🗄️ **Databases** | Data schema modeling, indexing & optimization |
+| 💡 **Engineering** | Code quality, design patterns & real-world workflows |
 
 </div>
 
 ---
 
-<!-- ================================================== -->
-<!--               CONTRIBUTION ANIMATION               -->
-<!-- ================================================== -->
+## 🧩 Languages / Frameworks / Tools
 
 <div align="center">
 
-## THE CONTRIBUTION TRAIL
-
-<img width="100%" src="https://raw.githubusercontent.com/abdullahamjad169/abdullahamjad169/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+&nbsp;
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 </div>
 
 ---
 
-<!-- ================================================== -->
-<!--                 LIVE REPOSITORIES                  -->
-<!-- ================================================== -->
+## 🤝 Let's Connect
 
 <div align="center">
-
-## SELECTED WORK
-
-<a href="https://github.com/abdullahamjad169?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/abdullahamjad169">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahamjad169&repo=YOUR_REAL_REPOSITORY_NAME&theme=transparent&hide_border=true" alt="Featured repository" />
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
+&nbsp;
+<a href="https://github.com/abdullahamjad169?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Open-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
-</div>
-
----
-
-<!-- ================================================== -->
-<!--                 GITHUB ACTIVITY                    -->
-<!-- ================================================== -->
-
-<div align="center">
-
-## GITHUB ACTIVITY
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&theme=transparent&langs_count=5" alt="Languages in public repositories" />
-
-</div>
-
----
-
-<!-- ================================================== -->
-<!--                   TECH STACK                       -->
-<!-- ================================================== -->
-
-<div align="center">
-
-## TECH STACK
-
-**01 — MOBILE**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter Dart" />
-
 <br/><br/>
 
-**02 — FRONTEND**
+**Building useful things, one commit at a time.**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" alt="HTML CSS JavaScript React Next.js" />
+<br/>
 
-<br/><br/>
-
-**03 — BACKEND & DATA**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Node.js Express MongoDB PostgreSQL" />
-
-<br/><br/>
-
-**04 — TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
-
-</div>
-
----
-
-<!-- ================================================== -->
-<!--                     FOOTER                         -->
-<!-- ================================================== -->
-
-<div align="center">
-
-### KEEP BUILDING. KEEP EVOLVING.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,40:0F2440,75:075985,100:06B6D4" alt="Decorative footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0b1329,75:075985,100:0891B2&height=90&section=footer" alt="Footer divider" />
 
 </div>
