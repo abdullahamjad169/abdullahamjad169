@@ -1,169 +1,136 @@
+ <!-- Abdullah Amjad | GitHub Profile README -->
+
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Abdullah%20Amjad&fontSize=48&fontColor=EAF7FF&desc=Flutter%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=72&color=0:263746,50:245B68,100:438F91">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=200&section=header&text=Abdullah%20Amjad&fontSize=48&fontColor=20394B&desc=Flutter%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=72&color=0:EAF5FC,50:D9F2EE,100:C9E8F5" width="100%" alt="Abdullah Amjad — Flutter and Full-Stack Developer">
+  </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&text=ABDULLAH%20AMJAD&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FLUTTER%20%2B%20FULL-STACK%20ENGINEERING&descSize=17&descAlignY=58&animation=fadeIn&color=0:071A2C,45:123B56,100:087F8C" alt="Abdullah Amjad — developer banner"/>
+  <br/>
 
-<a href="https://github.com/abdullahamjad169">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Full-Stack+Web+Development;Turning+Ideas+Into+Working+Software" alt="Developer introduction"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=2696A0&center=true&vCenter=true&width=600&lines=Building+thoughtful+digital+experiences;Flutter+Apps+%2B+Full-Stack+Web;Learning%2C+Building%2C+Improving+Every+Day" alt="Animated developer introduction">
 
-<br/><br/>
+  <br/>
 
-<a href="https://github.com/abdullahamjad169?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore projects"/>
-</a>
-<a href="https://github.com/abdullahamjad169?tab=followers">
-<img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-0B1220?style=for-the-badge&logo=github&logoColor=34D399" alt="Follow on GitHub"/>
-</a>
-
+  <a href="https://github.com/abdullahamjad169?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20Projects-2D8791?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects">
+  </a>
+  <a href="https://github.com/abdullahamjad169?tab=followers">
+    <img src="https://img.shields.io/badge/Connect%20on%20GitHub-6486A0?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub">
+  </a>
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-## SOFTWARE · DESIGN · ENGINEERING
+I'm **Abdullah Amjad**, an IT student and developer interested in building useful mobile applications and modern web experiences.
 
-*I build for mobile. I build for the web. I keep learning how to build better.*
+- 🎓 **BS Information Technology** — Government College University Faisalabad
+- 📱 Focused on **Flutter & Dart** for cross-platform app development
+- 🌐 Exploring **Full-Stack Web Development**
+- 🛠️ Learning by building real projects and solving practical problems
+- 🌱 Always improving my development workflow and problem-solving skills
 
-</div>
-
-## `01` — The Developer
-
-I'm a **BS Information Technology student at Government College University Faisalabad (GCUF)**, currently in my 5th semester.
-
-My interests span cross-platform mobile development and modern full-stack web applications. I enjoy exploring new technologies, solving development problems, and turning ideas into practical projects.
-
-- **Mobile:** Flutter & Dart
-- **Frontend:** React, Next.js, JavaScript & TypeScript
-- **Backend:** Node.js, Express, PHP & Laravel
-- **Databases:** MongoDB & PostgreSQL
-- **Current build:** TDM Download Manager
-
----
-
-## `02` — Engineering Stack
+## Tech Stack
 
 <div align="center">
 
-### MOBILE ENGINEERING
+**Mobile Development**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="Flutter and Dart" />
 
-### WEB INTERFACE
+**Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Web technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=light" alt="Frontend technologies" />
 
-### SERVER & DATA
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,postgres&theme=dark" alt="Backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,mongodb,postgres&theme=light" alt="Backend technologies and databases" />
 
-### DEVELOPMENT TOOLS
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Developer tools" />
 
 </div>
 
----
-
-## `03` — Selected Projects
+## Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-<a href="https://github.com/abdullahamjad169">
-<strong>TDM</strong>
-</a>
+### 📱 TDM — Download Manager
 
-**01 / DOWNLOAD MANAGER**
+A Flutter-based project focused on detecting media and exploring download options.
 
-A project focused on media detection and download workflows, currently under development.
+**Focus:** Flutter · Dart · Media Detection
 
-`Flutter` `Dart`
+<a href="https://github.com/abdullahamjad169?tab=repositories">Explore repositories →</a>
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
-<a href="https://github.com/abdullahamjad169">
-<strong>RYVA</strong>
-</a>
+### 🛍️ Ryva — E-commerce
 
-**02 / E-COMMERCE**
+A modern e-commerce website project focused on product presentation and shopping experiences.
 
-An e-commerce website project focused on product presentation and the online shopping experience.
+**Focus:** Web Development · UI · E-commerce
 
-`Web Development`
+<a href="https://github.com/abdullahamjad169?tab=repositories">Explore repositories →</a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-<a href="https://github.com/abdullahamjad169">
-<strong>QURAN APP</strong>
-</a>
+### 📖 Quran App
 
-**03 / MOBILE EXPERIENCE**
+A Quran application concept focused on a clear reading experience and simple navigation.
 
-A Quran app project focused on reading and straightforward navigation.
+**Focus:** Flutter · App UI · Navigation
 
-`Mobile UI` `Navigation`
+<a href="https://github.com/abdullahamjad169?tab=repositories">Explore repositories →</a>
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
-<a href="https://github.com/abdullahamjad169?tab=repositories">
-<strong>MORE EXPERIMENTS ↗</strong>
-</a>
+### 💻 Web Experiments
 
-**04 / CONTINUOUS LEARNING**
+Exploring responsive interfaces, reusable components and full-stack application development.
 
-Explore my repositories for other projects and development experiments.
+**Focus:** React · Next.js · APIs
 
-`Explore` `Learn` `Build`
+<a href="https://github.com/abdullahamjad169?tab=repositories">Explore repositories →</a>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
----
-
-## `04` — GitHub Activity
+## GitHub Overview
 
 <div align="center">
-
-<a href="https://github.com/abdullahamjad169">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=34D399&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/abdullahamjad169">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0" alt="Most used languages"/>
-</a>
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamjad169&hide_border=true&background=0B1220&ring=38BDF8&fire=34D399&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub contribution streak"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&bg_color=00000000&title_color=7DD3D8&icon_color=7DD3D8&text_color=C8D6E0&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&bg_color=00000000&title_color=347E91&icon_color=347E91&text_color=526575&rank_icon=github" height="165" alt="GitHub statistics">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&bg_color=00000000&title_color=7DD3D8&text_color=C8D6E0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&bg_color=00000000&title_color=347E91&text_color=526575" height="165" alt="Most used programming languages">
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdullahamjad169&hide_border=true&background=00000000&ring=7DD3D8&fire=E9B872&currStreakLabel=7DD3D8&sideLabels=C8D6E0&currStreakNum=FFFFFF&sideNums=C8D6E0&dates=9AAAB8">
+    <img src="https://streak-stats.demolab.com?user=abdullahamjad169&hide_border=true&background=00000000&ring=347E91&fire=D99A48&currStreakLabel=347E91&sideLabels=526575&currStreakNum=263746&sideNums=526575&dates=8495A3" width="65%" alt="GitHub contribution streak">
+  </picture>
 </div>
 
 ---
 
-## `05` — Education
-
-**BS Information Technology**  
-Government College University Faisalabad · Pakistan  
-`2024 – 2028` · `5th Semester`
-
----
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:087F8C,50:123B56,100:071A2C"/>
+*“Build with purpose. Improve with every iteration.”*
 
-### BUILD. BREAK. LEARN. REBUILD.
-
-*One project at a time.*
-
-<a href="https://github.com/abdullahamjad169">GITHUB</a> · <a href="https://github.com/abdullahamjad169?tab=repositories">PROJECTS</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&color=0:EAF5FC,100:C9E8F5" width="100%" alt="Footer">
 
 </div>
