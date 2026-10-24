@@ -1,119 +1,134 @@
+<!--
+  GitHub Profile README
+  Replace YOUR_GITHUB_USERNAME and remove any skill badges that do not reflect your real experience.
+  This README intentionally does not include a personal name or invented project details.
+-->
+
 <div align="center">
 
-<!-- Responsive, theme-neutral banner; no personal name is embedded. -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=220&section=header&text=FLUTTER%20%2B%20FULL-STACK&fontSize=38&fontColor=ffffff&fontAlignY=42&desc=BUILD%20%E2%80%A2%20DESIGN%20%E2%80%A2%20SHIP&descAlignY=66&descSize=16&color=0:07111f,50:092b45,100:00b8d9"
-  alt="Flutter and Full-Stack Development banner"
-/>
+<!-- Futuristic developer banner: dark, high-contrast cyan/red, like the supplied reference. -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&text=FLUTTER%20%2B%20FULL%20STACK&fontSize=39&fontColor=ffffff&fontAlignY=39&desc=CODE%20%2F%2F%20BUILD%20%2F%2F%20SHIP%20%2F%2F%20REPEAT&descSize=15&descAlignY=63&color=0:030712,35:071a2d,70:082b45,100:030712&stroke=00d9ff&strokeWidth=1" alt="Flutter and Full-Stack Developer cyber-tech banner" />
 
-### Flutter Developer · Full-Stack Developer
+<h3>Flutter Developer · Full-Stack Developer</h3>
 
-Building clean, responsive apps and useful web experiences.
+<p>Building responsive web experiences and cross-platform mobile apps.</p>
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Web Development](https://img.shields.io/badge/Full--Stack-111827?style=for-the-badge&logo=stackblitz&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00b8d9&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+
+<br />
+
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/FULL--STACK-111827?style=for-the-badge&logo=stackblitz&logoColor=00D9FF" alt="Full Stack" />
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-0B1220?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Web development" />
 
 </div>
 
 ---
 
-## 👋 About
+## `> ABOUT_ME`
 
-I’m focused on building polished user interfaces, cross-platform Flutter applications, and full-stack web products. I enjoy turning ideas into practical, maintainable software—from the frontend experience to APIs and data.
+- 📱 Interested in building cross-platform applications with **Flutter and Dart**.
+- 🌐 Focused on **full-stack development**, from responsive interfaces to backend APIs.
+- 🧩 Interested in clean UI, reusable components, and maintainable code.
+- 🚀 Always learning, improving, and turning ideas into useful software.
 
-- 📱 **Mobile:** Flutter and Dart, responsive layouts, reusable widgets
-- 🌐 **Web:** Modern frontend development and full-stack application fundamentals
-- 🔌 **Backend:** API integration, authentication flows, and data handling
-- 🧰 **Workflow:** Git, GitHub, debugging, and iterative improvement
-- 🌱 **Currently exploring:** Better architecture, performance, accessibility, and deployment practices
+> Keep these statements only if they accurately describe your current focus.
 
-> Replace or remove any line above that doesn’t accurately describe your current experience.
+---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Mobile development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Backend & data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-0F766E?style=flat-square)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-> Keep only the technologies you actively use or are currently learning; remove any badges that don’t fit.
-
-## 🚀 What I Like Building
-
-- Cross-platform Flutter apps with clear, consistent UI
-- Responsive websites and full-stack web applications
-- Apps that connect to APIs and display data cleanly
-- Reusable components, maintainable code, and practical automation
-
-## 📌 Featured Projects
-
-Add your strongest existing repositories here. Keep this section limited to real projects—no projects are created by this README.
-
-- **[Project Name](https://github.com/your-username/your-repository)** — One sentence describing the problem it solves and the tech used.
-- **[Project Name](https://github.com/your-username/your-repository)** — One sentence highlighting a useful feature or technical decision.
-- **[Project Name](https://github.com/your-username/your-repository)** — One sentence describing the result or what you learned.
-
-> Replace the example links with your actual repository URLs, or remove this section until you’re ready to feature projects.
-
-## 📊 GitHub Snapshot
+## `> TECH_STACK`
 
 <div align="center">
 
-<!-- GitHub profile cards automatically adapt to GitHub's light/dark theme. -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-  alt="GitHub statistics"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"
-  alt="Most used languages"
-/>
+**Flutter & Mobile**  
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="Flutter and Dart" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light" alt="HTML, CSS, JavaScript, TypeScript and React" />
+
+**Backend & Data**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql&theme=light" alt="Node.js, Express, Firebase, MongoDB and MySQL" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" alt="Git, GitHub, VS Code and Postman" />
 
 </div>
 
-> Replace `YOUR_GITHUB_USERNAME` in both image URLs with your exact GitHub username. Stats are provided by a third-party service and may occasionally be unavailable.
+> **Important:** These are suggested stack badges for the design. Remove any technology you do not use or are not currently learning.
 
-## 🤝 Connect
+---
+
+## `> WHAT_I_BUILD`
+
+<table>
+<tr>
+<td width="50%">
+<h3>📱 Flutter Apps</h3>
+<ul>
+<li>Cross-platform mobile interfaces</li>
+<li>Reusable widgets and responsive layouts</li>
+<li>API-connected app experiences</li>
+</ul>
+</td>
+<td width="50%">
+<h3>🌐 Full-Stack Web</h3>
+<ul>
+<li>Responsive websites and frontend UI</li>
+<li>Backend services and REST API integration</li>
+<li>Database-driven application features</li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
+
+## `> GITHUB_STATS`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.example)
+<!-- Transparent cards are intended to adapt to GitHub's light and dark themes. -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=00a8cc&icon_color=00a8cc&text_color=808080" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=00a8cc&text_color=808080" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=00000000&ring=00A8CC&fire=FF4655&currStreakLabel=00A8CC&sideLabels=808080&dates=808080" alt="GitHub contribution streak" />
 
 </div>
 
-> Update these links to your real profiles, or delete any link you don’t use.
+---
+
+## `> FEATURED_PROJECTS`
+
+Add links to your **existing** repositories here when ready. No project details have been invented.
+
+- **Project name** — What it does, and which Flutter or full-stack technologies it uses. `[Repository link]`
+- **Project name** — A useful feature or problem solved. `[Repository link]`
+- **Project name** — A web or mobile project you are proud of. `[Repository link]`
+
+---
+
+## `> CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
+
+> Replace the username and LinkedIn link with your real profile URLs. Remove any link you do not use.
 
 ---
 
 <div align="center">
 
-**Code thoughtfully. Build consistently. Keep learning.**
+### `CODE. BUILD. INNOVATE. REPEAT.`
+
+<sub>Designed for a clean GitHub profile in both light and dark mode.</sub>
 
 </div>
