@@ -1,0 +1,47 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7FBFF"/>
+      <stop offset="0.5" stop-color="#E8F2FF"/>
+      <stop offset="1" stop-color="#DDEAFF"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#F2F9FF" stop-opacity="0.96"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+
+  <circle cx="1290" cy="120" r="220" fill="#DCEBFF"/>
+  <circle cx="1390" cy="360" r="180" fill="#CFE3FF"/>
+  <circle cx="1180" cy="420" r="160" fill="#C9E0FF"/>
+
+  <path d="M80 430C260 270 360 205 520 255C680 305 720 420 930 410C1165 400 1280 215 1450 170V500H80V430Z" fill="#DDEBFF" opacity="0.8"/>
+  <path d="M0 450C160 380 280 310 500 330C740 352 840 420 1040 416C1230 412 1380 332 1600 285V500H0V450Z" fill="#C9E1FF" opacity="0.75"/>
+
+  <g transform="translate(95 90)">
+    <rect x="0" y="0" width="520" height="110" rx="22" fill="url(#card)" stroke="#D5E9FF"/>
+    <text x="38" y="66" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" letter-spacing="1.5">ABDULLAH AMJAD</text>
+    <rect x="38" y="80" width="150" height="8" rx="4" fill="url(#blue)"/>
+  </g>
+
+  <g transform="translate(96 240)">
+    <rect x="0" y="0" width="600" height="110" rx="24" fill="rgba(255,255,255,0.7)" stroke="#D8E8FF"/>
+    <text x="30" y="48" fill="#0F172A" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="2">BS IT STUDENT</text>
+    <text x="30" y="82" fill="#0EA5E9" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="1.3">FLUTTER • DART • FULL STACK</text>
+  </g>
+
+  <g transform="translate(1185 90)">
+    <rect x="0" y="0" width="260" height="255" rx="26" fill="rgba(255,255,255,0.72)" stroke="#D7E9FF"/>
+    <circle cx="130" cy="96" r="56" fill="url(#blue)"/>
+    <path d="M95 142L130 56L165 142H95Z" fill="white"/>
+    <path d="M112 122H148L130 151L112 122Z" fill="#E2F2FF"/>
+    <rect x="58" y="170" width="144" height="38" rx="12" fill="#EAF4FF"/>
+    <text x="130" y="194" text-anchor="middle" fill="#0EA5E9" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">DEV</text>
+  </g>
+</svg>
