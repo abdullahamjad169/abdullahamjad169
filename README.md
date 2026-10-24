@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**abdullahamjad169/abdullahamjad169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+  <img src="./light_mode.svg" alt="Abdullah Amjad — Developer Profile" width="100%">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+**Flutter & Dart Developer | Full-Stack Web Development**
+
+[GitHub Profile](https://github.com/abdullahamjad169) ·
+[Repositories](https://github.com/abdullahamjad169?tab=repositories)
+
+</div>
