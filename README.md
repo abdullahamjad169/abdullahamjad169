@@ -1,88 +1,90 @@
- <div align="center">
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:effcf4,50:d8f5e4,100:f0fdf4&fontColor=14532d&fontSize=42&fontAlignY=40&desc=FLUTTER%20%2F%20DART%20%2F%20FULL-STACK%20WEB&descAlignY=60&descSize=16&animation=fadeIn" alt="Developer banner"/>
+
+# Abdullah Amjad
+
+### Software Developer in Progress
+
+Building mobile experiences and modern web applications.
 
 <a href="https://github.com/abdullahamjad169">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=gradient&customColorList=6&text=ABDULLAH%20AMJAD&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Flutter%20%7C%20Dart%20%7C%20Full-Stack%20Web&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="Abdullah Amjad developer banner"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-166534?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/abdullahamjad169?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-ffffff?style=for-the-badge&logo=github&logoColor=166534" alt="Repositories"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/abdullahamjad169">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=238636&center=true&vCenter=true&width=600&lines=Building+Mobile+Experiences+with+Flutter;Creating+Modern+Web+Applications;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing introduction"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/abdullahamjad169?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-<a href="https://github.com/abdullahamjad169?tab=followers">
-  <img src="https://img.shields.io/badge/Follow%20My%20Journey-238636?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=15803D&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+Development;Modern+Web+Applications;Learning+by+Building+Real+Projects" alt="Developer focus"/>
 
 </div>
 
 ---
 
-## About Me
+## 01 / Profile
 
-I'm a **BS Information Technology student at GCUF**, currently in my 5th semester, interested in mobile and web application development.
+I'm a **BS Information Technology student at Government College University Faisalabad**, currently in my 5th semester.
 
-My focus is on building useful applications, writing maintainable code, and continuously improving through hands-on projects.
+I enjoy turning ideas into practical software, exploring mobile and web technologies, and improving my development skills through hands-on projects.
 
-- **Mobile:** Flutter & Dart
-- **Web:** React, Next.js and modern JavaScript
-- **Backend:** Node.js, Express and database technologies
-- **Currently building:** TDM download manager
-- **Goal:** Grow as a software developer through practical engineering experience
+| | |
+|:--|:--|
+| **Education** | BS Information Technology — GCUF |
+| **Primary focus** | Flutter & Dart |
+| **Also exploring** | Full-Stack Web Development |
+| **Currently building** | TDM Download Manager |
+| **Approach** | Learn · Build · Refine |
 
 ---
 
-## Tech Stack
+## 02 / Technology
 
 <div align="center">
 
-**Mobile Development**
+**Mobile**
 
 <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart"/>
 
-**Frontend Development**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies"/>
 
-**Backend & Databases**
+**Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,postgres" alt="Backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,postgres" alt="Backend technologies"/>
 
-**Tools**
+**Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tools"/>
 
 </div>
 
 ---
 
-## Featured Projects
+## 03 / Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### TDM — Download Manager
+### TDM
+**Download Manager**
 
-A download-manager project focused on media detection and download workflows.
+A project focused on media detection and download workflows, with development currently in progress.
 
-**Status:** In progress
-
-**Focus:** Flutter, application development
+`Flutter` · `Dart`
 
 </td>
 <td width="50%" valign="top">
 
-### Ryva — E-commerce Website
+### Ryva
+**E-commerce Website**
 
-An e-commerce website project focused on product presentation and the online shopping experience.
+A web project focused on product presentation and the online shopping experience.
 
-**Focus:** Web development, UI and shopping workflows
+`Web Development`
 
 </td>
 </tr>
@@ -90,19 +92,21 @@ An e-commerce website project focused on product presentation and the online sho
 <td width="50%" valign="top">
 
 ### Quran App
+**Quran Reading Experience**
 
-A Quran application project designed around reading and straightforward navigation.
+A mobile app project focused on Quran reading and straightforward navigation.
 
-**Focus:** Mobile UI and navigation
+`Mobile UI` · `Navigation`
 
 </td>
 <td width="50%" valign="top">
 
-### More Projects
+### Explore More
+**Development Portfolio**
 
-Explore my GitHub repositories to see my learning journey and other development work.
+Discover other projects, experiments and learning work on my GitHub.
 
-<a href="https://github.com/abdullahamjad169?tab=repositories">Browse repositories →</a>
+[Browse all repositories →](https://github.com/abdullahamjad169?tab=repositories)
 
 </td>
 </tr>
@@ -110,41 +114,39 @@ Explore my GitHub repositories to see my learning journey and other development 
 
 ---
 
-## GitHub Overview
+## 04 / GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/abdullahamjad169">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&bg_color=ffffff&title_color=238636&icon_color=238636&text_color=333333&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&bg_color=ffffff&title_color=166534&icon_color=16a34a&text_color=374151&rank_icon=github" alt="GitHub statistics"/>
 </a>
 <a href="https://github.com/abdullahamjad169">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&bg_color=ffffff&title_color=238636&text_color=333333" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&bg_color=ffffff&title_color=166534&text_color=374151" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamjad169&hide_border=true&background=ffffff&ring=238636&fire=238636&currStreakLabel=238636" alt="GitHub contribution streak" width="70%"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamjad169&hide_border=true&background=ffffff&ring=16a34a&fire=16a34a&currStreakLabel=166534" alt="Contribution streak"/>
 
 </div>
 
 ---
 
-## Education
+## 05 / Education
 
 **BS Information Technology**  
 Government College University Faisalabad (GCUF)  
-2024–2028 · 5th Semester
+2024–2028 · Currently in 5th Semester
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:effcf4,100:d8f5e4&section=footer" alt="Footer"/>
 
-*Building with purpose. Learning with consistency.*
+**Building with purpose. Improving with every project.**
 
-<a href="https://github.com/abdullahamjad169">
-  <img src="https://img.shields.io/badge/Abdullah%20Amjad-View%20GitHub-181717?style=for-the-badge&logo=github" alt="Visit GitHub profile"/>
-</a>
+[GitHub Profile](https://github.com/abdullahamjad169) · [Repositories](https://github.com/abdullahamjad169?tab=repositories)
 
 </div>
