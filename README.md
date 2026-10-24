@@ -1,76 +1,144 @@
 
-<!-- =============== PREMIUM HEADER =============== -->
+<!-- ================================================== -->
+<!--                 PREMIUM HERO                       -->
+<!-- ================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080D18,50:12304A,100:0891B2&text=BUILD%20SOMETHING%20MEANINGFUL&fontSize=27&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" alt="Build something meaningful" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:0F2440,70:075985,100:06B6D4&text=THINK.%20BUILD.%20EVOLVE.&fontSize=35&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Think Build Evolve" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=460&lines=Flutter+%2B+Dart;Full+Stack+Development;Ideas+to+Applications." alt="Developer focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Full+Stack+Development;Building+Ideas+Into+Digital+Experiences" alt="Animated developer tagline" />
 
 <br/><br/>
 
 <a href="https://github.com/abdullahamjad169">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=111827" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+<a href="https://github.com/abdullahamjad169?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdullahamjad169&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-<!-- =============== ABOUT =============== -->
-
-## About
-
-IT student building mobile and web applications with a focus on clean interfaces and practical solutions.
-
----
-
-<!-- =============== CONTRIBUTIONS =============== -->
+<!-- ================================================== -->
+<!--                    ABOUT                           -->
+<!-- ================================================== -->
 
 <div align="center">
 
-### CONTRIBUTIONS
+## ABOUT ME
 
-<img width="100%" src="https://raw.githubusercontent.com/abdullahamjad169/abdullahamjad169/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+**Abdullah Amjad** · IT Student · Developer
+
+Mobile applications • Web development • Continuous learning
 
 </div>
 
 ---
 
-<!-- =============== PROJECTS =============== -->
+<!-- ================================================== -->
+<!--               CONTRIBUTION ANIMATION               -->
+<!-- ================================================== -->
 
 <div align="center">
 
-### SELECTED WORK
+## THE CONTRIBUTION TRAIL
+
+<img width="100%" src="https://raw.githubusercontent.com/abdullahamjad169/abdullahamjad169/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" />
+
+</div>
+
+---
+
+<!-- ================================================== -->
+<!--                 LIVE REPOSITORIES                  -->
+<!-- ================================================== -->
+
+<div align="center">
+
+## SELECTED WORK
 
 <a href="https://github.com/abdullahamjad169?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore actual repositories" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/abdullahamjad169">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahamjad169&repo=YOUR_REAL_REPOSITORY_NAME&theme=transparent&hide_border=true" alt="Featured repository" />
 </a>
 
 </div>
 
 ---
 
-<!-- =============== SKILLS =============== -->
+<!-- ================================================== -->
+<!--                 GITHUB ACTIVITY                    -->
+<!-- ================================================== -->
 
 <div align="center">
 
-### TECH STACK
+## GITHUB ACTIVITY
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,nextjs,nodejs,express,mongodb,postgres,git,github,vscode&theme=dark" alt="Development technologies and tools" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&theme=transparent&langs_count=5" alt="Languages in public repositories" />
 
 </div>
 
 ---
 
+<!-- ================================================== -->
+<!--                   TECH STACK                       -->
+<!-- ================================================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:080D18,50:12304A,100:0891B2" width="100%" alt="Footer" />
+## TECH STACK
+
+**01 — MOBILE**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter Dart" />
+
+<br/><br/>
+
+**02 — FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" alt="HTML CSS JavaScript React Next.js" />
+
+<br/><br/>
+
+**03 — BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" alt="Node.js Express MongoDB PostgreSQL" />
+
+<br/><br/>
+
+**04 — TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code" />
+
+</div>
+
+---
+
+<!-- ================================================== -->
+<!--                     FOOTER                         -->
+<!-- ================================================== -->
+
+<div align="center">
+
+### KEEP BUILDING. KEEP EVOLVING.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,40:0F2440,75:075985,100:06B6D4" alt="Decorative footer" />
 
 </div>
