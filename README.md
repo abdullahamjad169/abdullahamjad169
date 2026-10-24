@@ -25,18 +25,53 @@
 
 ---
 
-<h2 id="about">About</h2>
+<h2 id="about" align="center">About Me</h2>
 
-I’m Abdullah Amjad, a BS IT student with a focused interest in mobile and web development. I enjoy building clean user interfaces, responsive experiences, and practical digital solutions using modern tools and technologies.
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>
+        I’m <b>Abdullah Amjad</b>, a <b>BS IT student</b> with a growing passion for building clean, modern, and practical digital experiences.
+      </p>
 
-My core areas include:
-- Flutter & Dart app development
-- Front-end web development
-- Responsive UI/UX design
-- Full-stack web development fundamentals
-- Problem solving and continuous learning
+      <p>
+        My work focuses on <b>Flutter & Dart</b> for mobile development and <b>full-stack web development</b> for responsive, user-friendly products.
+      </p>
 
-I’m always learning, improving my skills, and building projects that are both functional and visually polished.
+      <p>
+        I enjoy turning ideas into real solutions through:
+      </p>
+
+      <ul>
+        <li>Flutter & Dart app development</li>
+        <li>Modern frontend interfaces</li>
+        <li>Responsive UI/UX design</li>
+        <li>Web application fundamentals</li>
+        <li>Continuous learning and improvement</li>
+      </ul>
+
+      <p>
+        I’m always learning, improving my skills, and creating work that is both functional and polished.
+      </p>
+    </td>
+
+    <td width="35%" valign="top">
+      <div align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <br />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <br />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
