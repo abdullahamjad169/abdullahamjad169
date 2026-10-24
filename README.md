@@ -22,6 +22,23 @@
   <img src="https://img.shields.io/badge/STATS-GitHub-0F172A?style=flat-square" />
 </a>
 
+<br/><br/>
+
+<svg width="110" height="110" viewBox="0 0 110 110" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Scroll down indicator">
+  <defs>
+    <linearGradient id="scrollGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect x="22" y="15" width="66" height="80" rx="22" fill="none" stroke="url(#scrollGrad)" stroke-width="3"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 8; 0 0" dur="1.2s" repeatCount="indefinite"/>
+    <path d="M55 35 L55 58" stroke="url(#scrollGrad)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M42 46 L55 59 L68 46" fill="none" stroke="url(#scrollGrad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
+
 </div>
 
 ---
