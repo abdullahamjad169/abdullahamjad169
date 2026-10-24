@@ -198,12 +198,8 @@ Explore more repositories and coding experiments on my GitHub profile.
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://github.com/abdullahamjad169?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Open-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
 <br/><br/>
