@@ -1,96 +1,130 @@
- <div align="center">
-  <h1>Abdullah Amjad</h1>
-  <p><strong>Flutter Developer · Full-Stack Web Developer</strong></p>
-  <p>
-    Building mobile applications and thoughtful web experiences.
-  </p>
-  <p>
-    <a href="https://github.com/abdullahamjad169?tab=repositories">Explore Projects</a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/abdullahamjad169">GitHub Profile</a>
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdullah+Amjad;BS+IT+Student;Flutter+%26+Dart+Developer;Full-Stack+Web+Developer" alt="typing banner" />
+</div>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#contact">Contact</a>
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahamjad169&label=Profile%20Views&color=0EA5E9&style=flat-square&logo=github" alt="profile views" />
+</p>
+
+---
+
+<h2 id="about">About</h2>
+
+I’m Abdullah Amjad, a BS IT student with a focused interest in mobile and web development. I enjoy building clean user interfaces, responsive experiences, and practical digital solutions using modern tools and technologies.
+
+My core areas include:
+- Flutter & Dart app development
+- Front-end web development
+- Responsive UI/UX design
+- Full-stack web development fundamentals
+- Problem solving and continuous learning
+
+I’m always learning, improving my skills, and building projects that are both functional and visually polished.
+
+---
+
+<h2>Core Stack</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </div>
 
 ---
 
-## About
-
-I'm an Information Technology student at Government College University Faisalabad, interested in building practical software across mobile and web platforms.
-
-- 🎓 BS Information Technology · GCUF · 2024–2028
-- 📱 Building with Flutter and Dart
-- 🌐 Exploring modern frontend and backend development
-- 🧩 Interested in clean UI, reusable components, and useful applications
-- 🚀 Learning by building and improving projects
-
-## Technologies
-
-<table>
-  <tr>
-    <td width="160"><strong>Mobile</strong></td>
-    <td>Flutter · Dart</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js · Express · PHP · Laravel · Python · Django</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>MongoDB · PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git · GitHub · VS Code</td>
-  </tr>
-</table>
-
-## Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>TDM</h3>
-      <p>A Flutter download-manager project exploring browser media detection and download workflows.</p>
-      <sub>Flutter · Dart · In progress</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Ryva</h3>
-      <p>An e-commerce website project focused on product presentation and the online shopping experience.</p>
-      <sub>Web Development · E-commerce</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Quran App</h3>
-      <p>A Quran application project focused on reading and straightforward navigation.</p>
-      <sub>Flutter · App UI</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Web Development</h3>
-      <p>Exploring responsive interfaces, reusable components, and full-stack application development.</p>
-      <sub>React · Next.js · APIs</sub>
-    </td>
-  </tr>
-</table>
-
-## GitHub Activity
+<h2>GitHub Statistics</h2>
 
 <div align="center">
-  <a href="https://github.com/abdullahamjad169">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&bg_color=00000000&title_color=4386C6&icon_color=4386C6&text_color=7A8794&include_all_commits=true" height="155" alt="GitHub statistics" />
-  </a>
-  <a href="https://github.com/abdullahamjad169">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&bg_color=00000000&title_color=4386C6&text_color=7A8794" height="155" alt="Most used languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&theme=default&bg_color=ffffff&title_color=0EA5E9&text_color=0F172A&icon_color=0EA5E9&border_color=BFDBFE" alt="GitHub stats" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&theme=default&bg_color=ffffff&title_color=0EA5E9&text_color=0F172A&icon_color=0EA5E9&border_color=BFDBFE" alt="Top languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamjad169&theme=default&background=ffffff&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0F172A&sideLabels=0F172A&dates=0F172A" alt="GitHub streak" />
 </div>
 
 ---
 
+<h2 id="skills">Skills</h2>
+
+<h3>Languages, Frameworks & Tools</h3>
+
 <div align="center">
-  <p><em>Learning continuously. Building thoughtfully.</em></p>
-  <sub>Thanks for visiting my profile.</sub>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+
+---
+
+<h2 id="projects">Projects</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Projects-Coming_Soon-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<p align="center">
+  I’m actively building and improving my work.
+</p>
+
+---
+
+<h2 id="contact">Contact</h2>
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/abdullahamjad169">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Let’s build something meaningful.</strong>
+</p>
