@@ -1,154 +1,69 @@
 
-<!-- ================================================= -->
-<!-- PREMIUM DEVELOPER HEADER                         -->
-<!-- ================================================= -->
+<!-- =============== PREMIUM HEADER =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,45:102A43,100:06B6D4&height=200&section=header&text=WHAT%20WILL%20YOU%20BUILD%20NEXT%3F&fontSize=27&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" alt="What will you build next?" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080D18,50:12304A,100:0891B2&text=BUILD%20SOMETHING%20MEANINGFUL&fontSize=27&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" alt="Build something meaningful" />
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Full+Stack+Development;Designing.+Building.+Improving.;Turning+Ideas+Into+Working+Software." alt="Animated developer tagline" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=460&lines=Flutter+%2B+Dart;Full+Stack+Development;Ideas+to+Applications." alt="Developer focus" />
 
 <br/><br/>
 
 <a href="https://github.com/abdullahamjad169">
-<img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=111827" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
 </a>
-<a href="https://github.com/abdullahamjad169?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" />
-</a>
-
-</div>
-
----
-
-<!-- ================================================= -->
-<!-- ABOUT                                              -->
-<!-- ================================================= -->
-
-<a id="about"></a>
-
-## About Me
-
-I'm **Abdullah Amjad**, an IT student focused on Flutter mobile development and full-stack web development.
-
-- 📱 Building cross-platform applications with Flutter and Dart.
-- 🌐 Developing modern web applications.
-- ⚙️ Learning backend development, APIs, and databases.
-- 🚀 Improving through practical projects and continuous learning.
-
-> Good software starts with a problem, grows through experimentation, and improves with every iteration.
-
----
-
-<!-- ================================================= -->
-<!-- REAL CONTRIBUTION ANIMATION                       -->
-<!-- ================================================= -->
-
-## Contribution Journey
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/abdullahamjad169/abdullahamjad169/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" />
-
-<br/>
-
-<a href="https://github.com/abdullahamjad169?tab=overview">
-<img src="https://img.shields.io/badge/View-Actual%20GitHub%20Activity-0E7490?style=flat-square&logo=github&logoColor=white" alt="View GitHub activity" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
 </a>
 
 </div>
 
 ---
 
-<!-- ================================================= -->
-<!-- REPOSITORIES                                       -->
-<!-- ================================================= -->
+<!-- =============== ABOUT =============== -->
 
-<a id="projects"></a>
+## About
 
-## Selected Repositories
+IT student building mobile and web applications with a focus on clean interfaces and practical solutions.
+
+---
+
+<!-- =============== CONTRIBUTIONS =============== -->
 
 <div align="center">
+
+### CONTRIBUTIONS
+
+<img width="100%" src="https://raw.githubusercontent.com/abdullahamjad169/abdullahamjad169/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+<!-- =============== PROJECTS =============== -->
+
+<div align="center">
+
+### SELECTED WORK
 
 <a href="https://github.com/abdullahamjad169?tab=repositories">
-<img src="https://img.shields.io/badge/BROWSE-ALL%20REPOSITORIES-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" />
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore actual repositories" />
 </a>
 
 </div>
-
-Explore my repositories for mobile applications, web development, and ongoing experiments.
-
-**To feature specific projects:** pin your real repositories on your GitHub profile, or add repository cards using their exact repository names. This avoids broken links and invented project details.
 
 ---
 
-<!-- ================================================= -->
-<!-- LIVE GITHUB STATS                                 -->
-<!-- ================================================= -->
-
-<a id="stats"></a>
-
-## GitHub Insights
+<!-- =============== SKILLS =============== -->
 
 <div align="center">
 
-<a href="https://github.com/abdullahamjad169">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub public statistics" />
-</a>
+### TECH STACK
 
-<a href="https://github.com/abdullahamjad169">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Languages detected in public repositories" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/abdullahamjad169">
-<img src="https://streak-stats.demolab.com?user=abdullahamjad169&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</a>
-
-</div>
-
-<sub>Statistics are generated by third-party services using GitHub data. Public repository statistics may exclude private activity, and cached results, API limits, or service outages can affect display. Language charts reflect repository code, not necessarily proficiency.</sub>
-
----
-
-<!-- ================================================= -->
-<!-- SELECTED SKILLS                                    -->
-<!-- ================================================= -->
-
-## Technologies & Tools
-
-<div align="center">
-
-**Mobile Development**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="Flutter and Dart" />
-
-<br/><br/>
-
-**Frontend Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=light" alt="HTML CSS JavaScript React Next.js" />
-
-<br/><br/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=light" alt="Node.js Express MongoDB PostgreSQL" />
-
-<br/><br/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git GitHub VS Code" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,react,nextjs,nodejs,express,mongodb,postgres,git,github,vscode&theme=dark" alt="Development technologies and tools" />
 
 </div>
 
@@ -156,8 +71,6 @@ Explore my repositories for mobile applications, web development, and ongoing ex
 
 <div align="center">
 
-**Build with purpose. Learn continuously. Ship better software.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,45:102A43,100:06B6D4&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:080D18,50:12304A,100:0891B2" width="100%" alt="Footer" />
 
 </div>
