@@ -1,152 +1,149 @@
-
-<!-- ================= HERO BANNER ================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0891B2&height=170&section=header&text=WHAT%20WILL%20YOU%20BUILD%20NEXT%3F&fontSize=27&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Emojis/Objects/Fire.png" width="28" alt="fire" />
+    Languages-Frameworks-Tools
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Emojis/Objects/Fire.png" width="28" alt="fire" />
+  </h2>
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=560&lines=Flutter+%26+Dart+%7C+Mobile+Development;Full+Stack+Development+%7C+Web+Apps;Turning+Ideas+Into+Working+Software" alt="Developer animation" />
-</a>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </div>
 
-<br/>
+  <br/>
 
-<img src="https://img.shields.io/badge/FOCUS-Mobile%20%26%20Web-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/MINDSET-Build%20%26%20Learn-0F172A?style=flat-square" />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flutter,dart,git,github,vscode,figma" />
+  </div>
+
+  <br/>
+
+  <h3>Deployment</h3>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </div>
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I'm **Abdullah Amjad**, an IT student and developer interested in building useful mobile and web applications.
-
-- 📱 Developing cross-platform apps with Flutter and Dart.
-- 🌐 Building responsive web applications.
-- ⚙️ Learning backend development, APIs, and databases.
-- 🚀 Focused on clean code and practical projects.
-
----
-
-## 🧰 Tech Stack
-
 <div align="center">
 
-**Mobile Development**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart" />
-
-<br/>
-
-**Frontend Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="HTML, CSS, JavaScript, React and Next.js" />
-
-<br/>
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Node.js, Express, MongoDB and PostgreSQL" />
-
-<br/>
-
-**Development Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Emojis/Objects/Lightning.png" width="28" alt="bolt" />
+    Stats
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Emojis/Objects/Lightning.png" width="28" alt="bolt" />
+  </h2>
 
 </div>
-
----
-
-## 🚀 Selected Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="45%" valign="top" align="center" style="padding: 18px; border: 1px solid #dfeaf6; border-radius: 18px; background: #f9fbff;">
+      <div style="font-size: 42px; font-weight: bold; color: #ff8a00;">1,159</div>
+      <div style="font-size: 18px; color: #374151;">Total Contributions</div>
+      <div style="font-size: 14px; color: #6b7280;">Apr 12, 2022 - Present</div>
+    </td>
 
-### 📖 Quran App
+    <td width="55%" valign="top" align="center" style="padding: 18px; border: 1px solid #dfeaf6; border-radius: 18px; background: #f9fbff;">
+      <div style="font-size: 22px; font-weight: bold; color: #0f172a; margin-bottom: 12px;">Abdullah Amjad's GitHub Stats</div>
 
-A mobile application focused on Quran reading and simple navigation.
-
-**Built with:** Flutter · Dart
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Ryva E-commerce
-
-An e-commerce website focused on a modern shopping experience.
-
-**Focus:** Web Development
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⬇️ TDM Downloader
-
-An in-progress download manager project.
-
-**Built with:** Flutter · Dart
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 More Projects
-
-Explore my GitHub repositories for additional development projects and experiments.
-
-</td>
-</tr>
+      <div align="left" style="display: inline-block; text-align: left; font-size: 15px;">
+        <p><b>⭐</b> Total Stars Earned: 0</p>
+        <p><b>⏳</b> Total Commits (2026): 0</p>
+        <p><b>🔀</b> Total PRs: 0</p>
+        <p><b>❗</b> Total Issues: 0</p>
+        <p><b>🔧</b> Contributed to (last year): 0</p>
+      </div>
+    </td>
+  </tr>
 </table>
 
----
-
-## 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&theme=default&bg_color=ffffff&title_color=0EA5E9&text_color=0F172A&icon_color=0EA5E9&border_color=D9EAFD" alt="GitHub Stats" />
+</div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&theme=default&bg_color=ffffff&title_color=0EA5E9&text_color=0F172A&icon_color=0EA5E9&border_color=D9EAFD" alt="Top Languages" />
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahamjad169&theme=default&background=ffffff&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0F172A&sideLabels=0F172A&dates=0F172A" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🎯 Currently Exploring
-
 <div align="center">
 
-| Area | Focus |
-|:---|:---|
-| 📱 Flutter | Cross-platform mobile apps |
-| 🌐 Full Stack | Frontend, backend and APIs |
-| 🗄️ Databases | Data modelling and integration |
-| 🤖 AI | Exploring practical AI integrations |
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Emojis/Objects/Laptop.png" width="28" alt="laptop" />
+    Repositories
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Emojis/Objects/Laptop.png" width="28" alt="laptop" />
+  </h2>
 
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" style="padding: 18px; border: 1px solid #dfeaf6; border-radius: 18px; background: #f9fbff;">
+      <a href="https://github.com/abdullahamjad169/abdullahamjad169" style="text-decoration: none; color: #0f172a;">
+        <h3>📁 abdullahamjad169</h3>
+      </a>
+      <p style="color: #475569;">Developer profile repository</p>
+      <div>
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+      </div>
+    </td>
+
+    <td width="50%" valign="top" style="padding: 18px; border: 1px solid #dfeaf6; border-radius: 18px; background: #f9fbff;">
+      <a href="https://github.com/abdullahamjad169?tab=repositories" style="text-decoration: none; color: #0f172a;">
+        <h3>📦 More Repositories</h3>
+      </a>
+      <p style="color: #475569;">View all public repositories on GitHub</p>
+      <div>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/abdullahamjad169?tab=repositories">
+    <img src="https://img.shields.io/badge/Show_More-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br/><br/>
-
-**Building useful things, one commit at a time.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0891B2&height=90&section=footer" />
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Emojis/Objects/Phone.png" width="28" alt="phone" />
+    Contact
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Emojis/Objects/Phone.png" width="28" alt="phone" />
+  </h2>
 
 </div>
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abdullahamjad169">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
