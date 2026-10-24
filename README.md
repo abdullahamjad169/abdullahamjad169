@@ -1,39 +1,30 @@
 <!-- ================= HERO BANNER ================= -->
-
 <div align="center">
 
 <a href="#about">
-  <img width="100%" src="banner.svg" alt="Hello G! Somewhere between soul and syntax." />
+  <img width="100%" src="https://raw.githubusercontent.com/abdullahamjad169/abdullahamjad169/main/assets/banner.svg" alt="Profile banner" />
 </a>
-
-<br/><br/>
 
 <a href="#about">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Flutter+%26+Dart+%E2%80%A2+Mobile+Development;Full+Stack+Development+%E2%80%A2+Web+Applications;Turning+Ideas+Into+Clean+Working+Software" alt="Developer roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=560&lines=Flutter+%26+Dart+%7C+Mobile+Development;Full+Stack+Development+%7C+Web+Apps;Turning+Ideas+Into+Working+Software" alt="Developer animation" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="#about">
-  <img src="https://img.shields.io/badge/FOCUS-Mobile%20%26%20Web-0891B2?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/FOCUS-Mobile%20%26%20Web-0891B2?style=flat-square" />
 </a>
-&nbsp;
-<a href="#stack">
-  <img src="https://img.shields.io/badge/STACK-Flutter%20%26%20FullStack-0F172A?style=flat-square" alt="Stack" />
-</a>
-&nbsp;
 <a href="#projects">
-  <img src="https://img.shields.io/badge/PROJECTS-Explore-0F172A?style=flat-square" alt="Projects" />
+  <img src="https://img.shields.io/badge/PROJECTS-Explore-0F172A?style=flat-square" />
 </a>
-&nbsp;
 <a href="#stats">
-  <img src="https://img.shields.io/badge/STATS-GitHub-0F172A?style=flat-square" alt="Stats" />
+  <img src="https://img.shields.io/badge/STATS-GitHub-0F172A?style=flat-square" />
 </a>
 
 <br/><br/>
 
 <a href="#about">
-  <img src="scroll.svg" width="65" alt="Scroll down indicator" />
+  <img src="https://raw.githubusercontent.com/abdullahamjad169/abdullahamjad169/main/assets/scroll.svg" width="110" alt="Scroll down" />
 </a>
 
 </div>
