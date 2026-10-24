@@ -1,112 +1,102 @@
 
-<!-- =============== ANIMATED HEADER =============== -->
+<!-- ================= HERO BANNER ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:7C3AED&height=220&section=header&text=Abdullah%20Amjad&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Flutter%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0891B2&height=170&section=header&text=WHAT%20WILL%20YOU%20BUILD%20NEXT%3F&fontSize=27&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
 
-<!-- =============== TYPING ANIMATION =============== -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Full+Stack+Web+Developer+%F0%9F%92%BB;Building+Modern+Digital+Experiences+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=560&lines=Flutter+%26+Dart+%7C+Mobile+Development;Full+Stack+Development+%7C+Web+Apps;Turning+Ideas+Into+Working+Software" alt="Developer animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/FOCUS-Mobile%20%26%20Web-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/MINDSET-Build%20%26%20Learn-0F172A?style=flat-square" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-```yaml
-name: Abdullah Amjad
-role: Flutter & Full Stack Developer
-education: BS Information Technology
-university: Government College University Faisalabad
-interests:
-  - Mobile App Development
-  - Full Stack Web Development
-  - Modern UI/UX
-  - AI-Powered Applications
-currently: Learning, building and improving
-```
-
-I build modern mobile and web applications with a focus on clean code, useful features, and user-friendly experiences.
+I'm **Abdullah Amjad**, an IT student and developer interested in building useful mobile and web applications.
 
 - 📱 Developing cross-platform apps with Flutter and Dart.
-- 🌐 Building responsive websites and full-stack applications.
-- 🛠️ Exploring backend development, databases, and APIs.
-- 🚀 Turning ideas into practical projects.
+- 🌐 Building responsive web applications.
+- ⚙️ Learning backend development, APIs, and databases.
+- 🚀 Focused on clean code and practical projects.
 
 ---
 
-## ⚡ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-### 📱 Mobile Development
+**Mobile Development**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Flutter and Dart" />
 
-### 🎨 Frontend Development
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+**Frontend Development**
 
-### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="HTML, CSS, JavaScript, React and Next.js" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" />
+<br/>
 
-### 🗄️ Databases & Tools
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Node.js, Express, MongoDB and PostgreSQL" />
+
+<br/>
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 Quran App
+### 📖 Quran App
 
-A mobile app focused on Quran reading and easy navigation.
+A mobile application focused on Quran reading and simple navigation.
 
-**Tech:** Flutter · Dart
+**Built with:** Flutter · Dart
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛍️ Ryva E-commerce
 
-A modern e-commerce website for an intuitive shopping experience.
+An e-commerce website focused on a modern shopping experience.
 
-**Tech:** Web Development
+**Focus:** Web Development
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⬇️ TDM Downloader
 
-An in-progress Flutter download manager project.
+An in-progress download manager project.
 
-**Tech:** Flutter · Dart
+**Built with:** Flutter · Dart
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 More Projects
 
-Explore my repositories for more experiments, applications, and development work.
-
-**Status:** Growing 🚀
+Explore my GitHub repositories for additional development projects and experiments.
 
 </td>
 </tr>
@@ -114,65 +104,49 @@ Explore my repositories for more experiments, applications, and development work
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Animation
+## 🎯 Currently Exploring
 
 <div align="center">
 
-<!-- Enable the contribution snake workflow described below -->
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" width="100%" />
+| Area | Focus |
+|:---|:---|
+| 📱 Flutter | Cross-platform mobile apps |
+| 🌐 Full Stack | Frontend, backend and APIs |
+| 🗄️ Databases | Data modelling and integration |
+| 🤖 AI | Exploring practical AI integrations |
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- 📱 Improving Flutter and Dart skills.
-- 🌐 Building complete full-stack applications.
-- 🔌 Learning API integration and database design.
-- 🤖 Exploring AI integration in real-world applications.
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
-</div>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
----
+<br/><br/>
 
-<div align="center">
+**Building useful things, one commit at a time.**
 
-### 💙 Code. Create. Innovate.
-
-*Building today what I want to improve tomorrow.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:7C3AED&height=100&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0891B2&height=90&section=footer" />
 
 </div>
