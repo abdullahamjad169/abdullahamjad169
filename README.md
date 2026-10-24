@@ -1,161 +1,204 @@
-<!-- ============================================================================== -->
-<!-- PREMIUM FLUTTER & FULL-STACK DEVELOPER GITHUB PROFILE README                  -->
-<!-- Fully self-contained, no external local dependencies needed                   -->
-<!-- Works seamlessly in both GitHub Light Mode and Dark Mode (NO NEON)            -->
-<!-- ============================================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Flutter%20%26%20Full-Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Crafting%20Cross-Platform%20Mobile%20Apps%20%26%20Modern%20Web%20Architectures&subfontSize=16&subfontColor=cbd5e1" width="100%" alt="Header Banner" />
-</p>
+<!-- ================= FUTURISTIC DEVELOPER BANNER ================= -->
 
 <div align="center">
 
-<!-- Live Typing Dynamic Subtitle -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=620&height=45&lines=Flutter+%26+Dart+Mobile+Architect;Full-Stack+Web+Developer;React+%26+Node.js+Engineer;Clean+Architecture+%26+Modern+UI" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:02040a,40:001b35,75:003b64,100:02040a&text=FLUTTER&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20BUILD%20%E2%80%A2%20DEPLOY%20%E2%80%A2%20SCALE&descSize=17&descAlignY=59&stroke=00d9ff&strokeWidth=1&animation=fadeIn" alt="Flutter Full Stack Developer Banner"/>
 
-<br />
-
-<p align="center">
-  A dedicated <b>Flutter Mobile Developer</b> &amp; <b>Full-Stack Web Engineer</b> passionate about crafting cross-platform mobile apps for Android &amp; iOS and modern, responsive web applications. Enthusiastic about clean architecture, scalable APIs, and contributing to open-source software.
-</p>
-
-<!-- Social Connect Badges (Matching Screenshot Style) -->
-<p align="center">
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<!-- Retro LED Green Digital Visitor Counter (Exact match to screenshot) -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Counter" />
-</p>
-
-<!-- GitHub Trophies (Exact Theme from Screenshot: White Cards, Gray Borders, Distinct Rank Circles) -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&margin-w=4&margin-h=4&column=6&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=CODE.+BUILD.+DEPLOY.+REPEAT.;Flutter+Mobile+App+Development;Full+Stack+Web+Development;Turning+Ideas+Into+Digital+Products" alt="Developer Typing Animation"/>
 
 </div>
 
-<br />
+---
 
-<!-- 2-Column Section: Personal Stuffs & Vintage Terminal Coder GIF -->
-<table border="0" width="100%">
-  <tr valign="middle">
-    <td width="60%">
-      <h3>⚡ Talking about Personal Stuffs:</h3>
-      <ul>
-        <li>📱 <b>I'm currently working on:</b> Cross-platform <b>Flutter (Android &amp; iOS)</b> apps &amp; <b>Full-Stack Web</b> projects</li>
-        <li>🌱 <b>I'm currently learning:</b> Advanced Flutter Clean Architecture, Bloc/Riverpod &amp; Scalable REST APIs</li>
-        <li>🤝 <b>I'm looking to collaborate on:</b> Open Source Flutter packages, mobile apps &amp; Full-Stack projects</li>
-        <li>📂 <b>Some of my projects are available at:</b> <a href="https://github.com/YOUR_GITHUB_USERNAME">My GitHub Repositories</a></li>
-        <li>💬 <b>Ask me about anything:</b> Flutter, Dart, React, Node.js, Express, Firebase, or UI/UX Design</li>
-        <li>📫 <b>How to reach me:</b> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-        <li>👨‍💻 <b>Pronouns:</b> Flutter &amp; Full-Stack Developer</li>
-        <li>✨ <b>Fun fact about me:</b> ✨ <code>I love coding + building apps + repeating</code> ✨</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="360" alt="Coder Typing at CRT Monitor" />
-    </td>
-  </tr>
+<!-- ================= ABOUT ================= -->
+
+## <img src="https://img.shields.io/badge/ABOUT_ME-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
+
+```text
+> INITIALIZING DEVELOPER PROFILE...
+> SPECIALIZATION : FLUTTER + FULL STACK
+> MISSION        : BUILD • AUTOMATE • INNOVATE
+> STATUS         : ALWAYS LEARNING
+```
+
+I'm a developer interested in building modern mobile applications and full-stack web experiences. I enjoy exploring new technologies, solving problems, and turning ideas into practical digital products.
+
+- 📱 Flutter mobile application development
+- 🌐 Responsive frontend and web interfaces
+- ⚙️ Backend APIs and server-side development
+- 🗄️ Database design and integration
+- 🚀 Deployment, version control, and continuous learning
+- 🤝 Collaboration on interesting development projects
+
+---
+
+<!-- ================= VISITOR COUNTER ================= -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00d9ff&label=PROFILE+VISITORS" alt="Profile Visitors"/>
+
+</div>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## <img src="https://img.shields.io/badge/TECH_STACK-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+
+<div align="center">
+
+| FLUTTER & MOBILE | FRONTEND | BACKEND | DATABASE |
+|:---:|:---:|:---:|:---:|
+| Flutter | HTML5 | Node.js | MongoDB |
+| Dart | CSS3 | Express.js | MySQL |
+| Firebase | JavaScript | REST APIs | PostgreSQL |
+
+</div>
+
+### Languages, Frameworks & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,git,github,docker,vscode,postman,linux&perline=7" alt="Development Skills"/>
+
+</div>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+## <img src="https://img.shields.io/badge/FEATURED_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Flutter Mobile App
+
+A modern mobile application with a responsive interface and practical features.
+
+**Stack:** Flutter · Dart · Firebase
+
+[View Projects](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+
+</td>
+<td width="50%">
+
+### 🌐 Full-Stack Web App
+
+A web application combining a modern frontend with backend APIs and database integration.
+
+**Stack:** React · Node.js · MongoDB
+
+[View Projects](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ REST API
+
+A backend project focused on API development, data management, and application integration.
+
+**Stack:** Node.js · Express.js · Database
+
+[View Projects](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+
+</td>
+<td width="50%">
+
+### 🚀 Personal Portfolio
+
+A portfolio website showcasing development work, skills, and projects.
+
+**Stack:** HTML · CSS · JavaScript
+
+[View Projects](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+
+</td>
+</tr>
 </table>
 
-<br />
+---
 
-<!-- Stats Section -->
-## Stats:
+<!-- ================= GITHUB STATISTICS ================= -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=6e5494&style=flat" alt="Visitors" />
-</p>
+## <img src="https://img.shields.io/badge/GITHUB_STATISTICS-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
 
-<p align="center">
-  <!-- GitHub Stats Card (Clean White/Gray/Black - Adaptive to Light & Dark GitHub Modes, NO NEON) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=161b22&border_color=30363d&title_color=e6edf3&text_color=7d8590&icon_color=2f81f7" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=57606a&icon_color=0969da" />
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=57606a&icon_color=0969da" height="175" alt="GitHub Stats" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <!-- Top Languages Card (Clean White/Gray/Black - Adaptive to Light & Dark GitHub Modes, NO NEON) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=161b22&border_color=30363d&title_color=e6edf3&text_color=7d8590" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=57606a" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=ffffff&border_color=d0d7de&title_color=0969da&text_color=57606a" height="175" alt="Top Languages" />
-    </picture>
-  </a>
-</p>
+<div align="center">
 
-<br />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Statistics"/>
 
-<!-- Skills Section (Strictly Flutter & Full-Stack - NO DEVOPS) -->
-## Skills:
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most Used Languages"/>
 
-### Languages,Frameworks & Tools
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=00D9FF&fire=FF4655&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
 
-<!-- Row 1: Languages & Mobile Frameworks -->
-<p align="left">
-  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+</div>
 
-<!-- Row 2: Frontend, Backend & Database -->
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-</p>
+---
 
-<!-- Row 3: Tools & Platforms (NO DEVOPS) -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-</p>
+<!-- ================= CONTRIBUTION GRAPH ================= -->
 
-<br />
+## <img src="https://img.shields.io/badge/CONTRIBUTION_GRAPH-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
 
-<!-- Bottom Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=120&section=footer" width="100%" alt="Footer Wave" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF4655&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+<!-- ================= SKILLS ================= -->
+
+## <img src="https://img.shields.io/badge/SKILLS_&_TOOLS-00D9FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## <img src="https://img.shields.io/badge/CONNECT_WITH_ME-00D9FF?style=for-the-badge&logo=github&logoColor=black" />
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4655" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,50:003B64,100:FF4655&section=footer" width="100%" alt="Neon Divider"/>
+
+### `LET'S BUILD SOMETHING AMAZING TOGETHER.`
+
+**CODE · BUILD · DEPLOY · REPEAT**
+
+</div>
