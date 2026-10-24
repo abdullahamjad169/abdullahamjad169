@@ -1,145 +1,163 @@
+
+<!-- ================================================= -->
+<!-- PREMIUM DEVELOPER HEADER                         -->
+<!-- ================================================= -->
+
 <div align="center">
 
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1f2328,50:24292f,100:0969da&height=160&section=header&text=Flutter%20%26%20Full-Stack%20Engineer&fontSize=34&fontColor=ffffff&subtext=Cross-Platform%20Mobile%20Apps%20%E2%80%A2%20Scalable%20Web%20Architectures&subfontSize=14&subfontColor=d0d7de" width="100%" alt="Header Banner" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,45:102A43,100:06B6D4&height=200&section=header&text=WHAT%20WILL%20YOU%20BUILD%20NEXT%3F&fontSize=27&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" alt="What will you build next?" />
 
-<!-- Live Typing Header -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=35&lines=Mobile+Engineering+%E2%80%A2+Flutter+%26+Dart;Full-Stack+Web+%E2%80%A2+React+%26+Node.js;Clean+Architecture+%E2%80%A2+Bloc+%26+Riverpod;Scalable+APIs+%E2%80%A2+PostgreSQL+%26+Firebase" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Flutter+%26+Dart+Developer;Full+Stack+Development;Designing.+Building.+Improving.;Turning+Ideas+Into+Working+Software." alt="Animated developer tagline" />
 </a>
 
-<br />
+<br/><br/>
 
-<!-- Real Professional Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  &nbsp;
-  <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitors" />
-</p>
+<a href="https://github.com/abdullahamjad169">
+<img src="https://img.shields.io/badge/GitHub-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/abdullahamjad169?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" />
+</a>
 
 </div>
 
 ---
 
-### 👨‍💻 Engineering Profile
+<!-- ================================================= -->
+<!-- ABOUT                                              -->
+<!-- ================================================= -->
 
-<table border="0" width="100%">
-  <tr valign="middle">
-    <td width="65%">
-      <p>
-        I am a <b>Software Engineer</b> specializing in <b>Flutter cross-platform mobile development</b> (Android &amp; iOS) and <b>Full-Stack web applications</b>.
-      </p>
-      <ul>
-        <li>📱 <b>Mobile:</b> Production Flutter apps, Clean Architecture (Domain/Data/Presentation), Bloc &amp; Riverpod state management, offline-first storage with SQLite/Drift.</li>
-        <li>🌐 <b>Frontend:</b> Responsive SPAs using React.js, modern TypeScript, component modularity, and clean UI engineering.</li>
-        <li>⚙️ <b>Backend:</b> RESTful API services built with Node.js &amp; Express, secure authentication (JWT), and relational/NoSQL data modeling.</li>
-        <li>🗄️ <b>Storage:</b> PostgreSQL, MongoDB, Firebase (Firestore, Authentication, Cloud Storage), SQLite.</li>
-        <li>💡 <b>Code Quality:</b> SOLID principles, maintainable repository pattern, predictable state flow, and clean code standards.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <!-- Coding From Home Animated Transparent Sticker -->
-      <img src="https://media.giphy.com/media/hqyGzMp1RXXWkfy6k9/giphy.gif" width="280" alt="Coding From Home" />
-    </td>
-  </tr>
-</table>
+<a id="about"></a>
+
+## About Me
+
+I'm **Abdullah Amjad**, an IT student focused on Flutter mobile development and full-stack web development.
+
+- 📱 Building cross-platform applications with Flutter and Dart.
+- 🌐 Developing modern web applications.
+- ⚙️ Learning backend development, APIs, and databases.
+- 🚀 Improving through practical projects and continuous learning.
+
+> Good software starts with a problem, grows through experimentation, and improves with every iteration.
 
 ---
 
-### 🛠️ Technical Stack &amp; Tools
+<!-- ================================================= -->
+<!-- REAL CONTRIBUTION ANIMATION                       -->
+<!-- ================================================= -->
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Mobile Development** | `Flutter` `Dart` `Android (Java/Kotlin)` `iOS (Swift)` `Bloc` `Riverpod` `Provider` |
-| **Frontend Web** | `React.js` `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS` |
-| **Backend &amp; APIs** | `Node.js` `Express.js` `RESTful APIs` `JWT Auth` `WebSockets` |
-| **Databases &amp; Storage** | `PostgreSQL` `MongoDB` `Firebase Suite` `SQLite` `Drift` |
-| **Developer Tools** | `Git` `GitHub` `VS Code` `Android Studio` `Postman` `Figma` |
+## Contribution Journey
 
-<br />
+<div align="center">
 
-<!-- Badge Showcase -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/abdullahamjad169/abdullahamjad169/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" />
+
+<br/>
+
+<a href="https://github.com/abdullahamjad169?tab=overview">
+<img src="https://img.shields.io/badge/View-Actual%20GitHub%20Activity-0E7490?style=flat-square&logo=github&logoColor=white" alt="View GitHub activity" />
+</a>
+
+</div>
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+<!-- ================================================= -->
+<!-- REPOSITORIES                                       -->
+<!-- ================================================= -->
 
-<!-- Live GitHub Streak Stats (Real dynamic calculation from your GitHub commits) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=161b22&stroke=30363d&ring=0969da&fire=0969da&currStreakLabel=0969da" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=light&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=0969da&currStreakLabel=0969da" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=light&hide_border=true&background=ffffff&stroke=d0d7de&ring=0969da&fire=0969da&currStreakLabel=0969da" alt="GitHub Streak" />
-  </picture>
-</p>
+<a id="projects"></a>
 
-<!-- Live GitHub Stats & Top Languages (Dual-Theme: Light Mode White & Dark Mode Slate) -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=161b22&border_color=30363d&title_color=e6edf3&text_color=7d8590&icon_color=0969da" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=656d76&icon_color=0969da" />
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=656d76&icon_color=0969da" height="165" alt="GitHub Stats" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=161b22&border_color=30363d&title_color=e6edf3&text_color=7d8590" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=656d76" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=ffffff&border_color=d0d7de&title_color=1f2328&text_color=656d76" height="165" alt="Top Languages" />
-    </picture>
-  </a>
-</p>
+## Selected Repositories
 
-<!-- Live GitHub Profile Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&margin-w=4&margin-h=4&column=6&row=1" alt="GitHub Trophies" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/abdullahamjad169?tab=repositories">
+<img src="https://img.shields.io/badge/BROWSE-ALL%20REPOSITORIES-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" />
+</a>
+
+</div>
+
+Explore my repositories for mobile applications, web development, and ongoing experiments.
+
+**To feature specific projects:** pin your real repositories on your GitHub profile, or add repository cards using their exact repository names. This avoids broken links and invented project details.
 
 ---
 
-<p align="center">
-  <b>📫 Let's connect and build something impactful together!</b><br />
-  Open for collaborations on Flutter packages, mobile applications, and full-stack software.
-</p>
+<!-- ================================================= -->
+<!-- LIVE GITHUB STATS                                 -->
+<!-- ================================================= -->
+
+<a id="stats"></a>
+
+## GitHub Insights
+
+<div align="center">
+
+<a href="https://github.com/abdullahamjad169">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub public statistics" />
+</a>
+
+<a href="https://github.com/abdullahamjad169">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Languages detected in public repositories" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/abdullahamjad169">
+<img src="https://streak-stats.demolab.com?user=abdullahamjad169&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</a>
+
+</div>
+
+<sub>Statistics are generated by third-party services using GitHub data. Public repository statistics may exclude private activity, and cached results, API limits, or service outages can affect display. Language charts reflect repository code, not necessarily proficiency.</sub>
+
+---
+
+<!-- ================================================= -->
+<!-- SELECTED SKILLS                                    -->
+<!-- ================================================= -->
+
+## Technologies & Tools
+
+<div align="center">
+
+**Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="Flutter and Dart" />
+
+<br/><br/>
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=light" alt="HTML CSS JavaScript React Next.js" />
+
+<br/><br/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=light" alt="Node.js Express MongoDB PostgreSQL" />
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git GitHub VS Code" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Build with purpose. Learn continuously. Ship better software.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,45:102A43,100:06B6D4&height=100&section=footer" alt="Footer" />
+
+</div>
