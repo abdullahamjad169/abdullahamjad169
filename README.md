@@ -1,199 +1,178 @@
 
+<!-- =============== ANIMATED HEADER =============== -->
+
 <div align="center">
 
-<!-- PREMIUM PASTEL HEADER BANNER -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:BFDBFE,25:BAE6FD,50:FBCFE8,75:E9D5FF,100:BBF7D0&height=260&section=header&text=Abdullah%20Amjad&fontSize=54&fontColor=1E293B&fontAlignY=38&desc=Flutter%20%7C%20Dart%20%7C%20Full-Stack%20Web%20Developer&descSize=18&descAlignY=58&descColor=334155&animation=fadeIn"
-  width="100%"
-  alt="Abdullah Amjad pastel gradient banner"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:7C3AED&height=220&section=header&text=Abdullah%20Amjad&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Flutter%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- ANIMATED INTRODUCTION -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=24&duration=2600&pause=900&color=0284C7&center=true&vCenter=true&width=850&height=50&lines=Hello%2C+welcome+to+my+GitHub!;BS+IT+Student;Flutter+%26+Dart+Developer;Full-Stack+Web+Developer;Learning.+Building.+Improving."
-  alt="Animated introduction"
-/>
+<!-- =============== TYPING ANIMATION =============== -->
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Developer+%F0%9F%93%B1;Full+Stack+Web+Developer+%F0%9F%92%BB;Building+Modern+Digital+Experiences+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<p>
-  <a href="#about">About Me</a> &nbsp; ✦ &nbsp;
-  <a href="#tech-stack">Tech Stack</a> &nbsp; ✦ &nbsp;
-  <a href="#stats">GitHub Stats</a> &nbsp; ✦ &nbsp;
-  <a href="#focus">Current Focus</a> &nbsp; ✦ &nbsp;
-  <a href="#contact">Contact</a>
-</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Flutter-Mobile%20Development-DBEAFE?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=EFF6FF" alt="Flutter development"/>
-<img src="https://img.shields.io/badge/Web-Development-FCE7F3?style=for-the-badge&logo=googlechrome&logoColor=BE185D&labelColor=FDF2F8" alt="Web development"/>
-<img src="https://img.shields.io/badge/Always-Learning-DCFCE7?style=for-the-badge&logo=bookstack&logoColor=166534&labelColor=F0FDF4" alt="Always learning"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=abdullahamjad169&label=PROFILE%20VISITORS&color=93C5FD&style=flat-square" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-<h2 align="center" id="about">✦ About Me</h2>
+## 👨‍💻 About Me
+
+```yaml
+name: Abdullah Amjad
+role: Flutter & Full Stack Developer
+education: BS Information Technology
+university: Government College University Faisalabad
+interests:
+  - Mobile App Development
+  - Full Stack Web Development
+  - Modern UI/UX
+  - AI-Powered Applications
+currently: Learning, building and improving
+```
+
+I build modern mobile and web applications with a focus on clean code, useful features, and user-friendly experiences.
+
+- 📱 Developing cross-platform apps with Flutter and Dart.
+- 🌐 Building responsive websites and full-stack applications.
+- 🛠️ Exploring backend development, databases, and APIs.
+- 🚀 Turning ideas into practical projects.
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Hi, I'm Abdullah Amjad 👋
+### 📱 Mobile Development
 
-**BS IT Student · Flutter & Dart Developer · Full-Stack Web Developer**
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-<br/>
+### 🎨 Frontend Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3200&pause=1000&color=64748B&center=true&vCenter=true&width=720&height=35&lines=Curious+mind%2C+creative+approach;Turning+ideas+into+digital+experiences;Learning+something+new+every+day"
-alt="Personal motto animation"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
-</div>
+### ⚙️ Backend Development
 
-I'm a **BS IT student** interested in creating clean, modern, and useful digital experiences. I enjoy exploring how technology can solve real problems and make everyday tasks easier.
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django" />
 
-My interests include building mobile applications with **Flutter and Dart**, designing responsive web interfaces, and exploring full-stack development. I aim to combine practical functionality with thoughtful design to create experiences that are intuitive and enjoyable to use.
+### 🗄️ Databases & Tools
 
-I believe that becoming a better developer comes from **continuous learning, consistent practice, and building real things**. I'm always looking for opportunities to improve my problem-solving skills, explore new technologies, and turn ideas into working applications.
-
-<div align="center">
-
-*Learn with curiosity. Build with purpose. Improve with every project.*
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,postman" />
 
 </div>
 
 ---
 
-<h2 align="center" id="tech-stack">✦ Technologies & Tools</h2>
-
-<div align="center">
-
-### Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="Flutter and Dart"/>
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light" alt="HTML CSS JavaScript React"/>
-
-### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=light" alt="Node.js Express MongoDB Firebase"/>
-
-### Programming & Development Tools
-
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,figma&theme=light" alt="Python C++ Git GitHub VS Code Figma"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-
-</div>
-
----
-
-<h2 align="center" id="stats">✦ GitHub Statistics</h2>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0284C7&text_color=334155&icon_color=38BDF8&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&bg_color=ffffff&title_color=0284C7&text_color=334155" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=abdullahamjad169&hide_border=true&background=FFFFFF&ring=38BDF8&fire=F9A8D4&currStreakLabel=0284C7&sideLabels=64748B&currStreakNum=1E293B&sideNums=1E293B&dates=94A3B8" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-<h2 align="center">✦ Development Philosophy</h2>
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/01-Learn-DBEAFE?style=for-the-badge&labelColor=EFF6FF" alt="Learn"/>
-<br/><br/>
-Explore new ideas, understand the fundamentals, and keep learning.
+<td width="50%">
+
+### 📱 Quran App
+
+A mobile app focused on Quran reading and easy navigation.
+
+**Tech:** Flutter · Dart
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/02-Build-FCE7F3?style=for-the-badge&labelColor=FDF2F8" alt="Build"/>
-<br/><br/>
-Turn concepts into useful applications and meaningful experiences.
+<td width="50%">
+
+### 🛍️ Ryva E-commerce
+
+A modern e-commerce website for an intuitive shopping experience.
+
+**Tech:** Web Development
+
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/03-Improve-DCFCE7?style=for-the-badge&labelColor=F0FDF4" alt="Improve"/>
-<br/><br/>
-Learn from feedback, refine the details, and grow through practice.
+</tr>
+<tr>
+<td width="50%">
+
+### ⬇️ TDM Downloader
+
+An in-progress Flutter download manager project.
+
+**Tech:** Flutter · Dart
+
+</td>
+<td width="50%">
+
+### 💻 More Projects
+
+Explore my repositories for more experiments, applications, and development work.
+
+**Status:** Growing 🚀
+
 </td>
 </tr>
 </table>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+
 </div>
 
 ---
 
-<h2 align="center" id="focus">✦ Current Focus</h2>
+## 🐍 Contribution Animation
 
 <div align="center">
 
-| Area | What I'm working toward |
-|:---|:---|
-| 📱 Mobile | Improving Flutter and Dart development skills |
-| 🌐 Frontend | Learning responsive layouts and modern web interfaces |
-| ⚙️ Full-stack | Understanding how frontend, backend, and databases connect |
-| 📚 Growth | Practicing consistently and strengthening problem-solving |
+<!-- Enable the contribution snake workflow described below -->
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation" width="100%" />
 
 </div>
 
 ---
 
-<h2 align="center" id="contact">✦ Let's Connect</h2>
+## 🎯 Current Focus
+
+- 📱 Improving Flutter and Dart skills.
+- 🌐 Building complete full-stack applications.
+- 🔌 Learning API integration and database design.
+- 🤖 Exploring AI integration in real-world applications.
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-I'm interested in learning, exchanging ideas, and connecting with fellow developers.
-
-<br/>
-
-<a href="https://github.com/abdullahamjad169">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Profile-DBEAFE?style=for-the-badge&logo=github&logoColor=1E293B&labelColor=EFF6FF" alt="GitHub profile"/>
-</a>
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-DCEBFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=EFF6FF" alt="LinkedIn profile"/>
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-FCE7F3?style=for-the-badge&logo=gmail&logoColor=BE185D&labelColor=FDF2F8" alt="Email"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Let's build something meaningful.** ✨
+</div>
 
-<br/>
+---
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:BFDBFE,25:BAE6FD,50:FBCFE8,75:E9D5FF,100:BBF7D0&height=130&section=footer"
-  width="100%"
-  alt="Pastel gradient footer"
-/>
+<div align="center">
 
-<sub>Designed with care · Built with curiosity · Always learning</sub>
+### 💙 Code. Create. Innovate.
+
+*Building today what I want to improve tomorrow.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:7C3AED&height=100&section=footer" width="100%" />
 
 </div>
