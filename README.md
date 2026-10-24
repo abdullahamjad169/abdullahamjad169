@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Flutter &amp; Full-Stack Developer Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # Hi 👋, I'm a Flutter & Full-Stack Developer 💻
