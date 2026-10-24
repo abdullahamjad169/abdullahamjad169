@@ -6,7 +6,7 @@
 </a>
 
 <a href="#about">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=560&lines=Flutter+%26+Dart+%7C+Mobile+Development;Full+Stack+Development+%7C+Web+Apps;Turning+Ideas+Into+Working+Software" alt="Developer animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=5200&pause=1800&color=0B4D8C&center=true&vCenter=true&width=620&lines=Flutter+%26+Dart+%7C+Mobile+Development;Full+Stack+Development+%7C+Web+Apps;Turning+Ideas+Into+Working+Software" alt="Developer animation" />
 </a>
 
 <br/>
