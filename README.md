@@ -1,123 +1,50 @@
- <div align="center">
-  <h1>Abdullah Amjad</h1>
-  <h3>Flutter Developer &nbsp;·&nbsp; Full-Stack Web Developer</h3>
-
-  <p>
-    Designing useful mobile experiences.<br/>
-    Building modern, scalable web applications.
-  </p>
-
-  <p>
-    <a href="https://github.com/abdullahamjad169?tab=repositories">View Projects</a>
-    &nbsp; • &nbsp;
-    <a href="https://github.com/abdullahamjad169?tab=followers">Connect</a>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=4386C6" width="100%" alt="Blue divider"/>
-</div>
-
-## 01 / About
-
-I'm an Information Technology student at **Government College University Faisalabad**, exploring the intersection of mobile and web development.
-
-My approach is simple: write clean code, create intuitive interfaces, and keep learning by building practical projects.
-
-- 🎓 **BS Information Technology** — 2024–2028
-- 📱 Currently developing with Flutter and Dart
-- 🌐 Exploring modern full-stack technologies
-- 🛠️ Interested in reusable components, responsive UI, and application architecture
-
-## 02 / What I Build
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Mobile Applications</h3>
-      <p>Cross-platform applications with thoughtful navigation and user-focused interfaces.</p>
-      <p><strong>Flutter · Dart</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Web Applications</h3>
-      <p>Responsive frontends, backend APIs, and database-driven applications.</p>
-      <p><strong>React · Next.js · Node.js</strong></p>
-    </td>
-  </tr>
-</table>
-
-## 03 / Technology Stack
 
 <div align="center">
 
-**Mobile**
+<!-- Simple animated banner with a reliable SVG service -->
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=38&pause=1000&color=0284C7&center=true&vCenter=true&width=850&height=80&lines=ABDULLAH+AMJAD" alt="Abdullah Amjad" />
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=light" alt="Flutter and Dart"/>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=22&duration=2800&pause=900&color=64748B&center=true&vCenter=true&width=850&height=50&lines=BS+IT+Student;Flutter+%26+Dart+Developer;Full-Stack+Web+Developer;Building+modern+digital+experiences" alt="Animated developer introduction" />
 
-**Frontend**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=light" alt="Frontend technologies"/>
+<img src="https://img.shields.io/badge/Flutter%20%26%20Dart-Mobile%20Development-E0F2FE?style=flat-square&labelColor=DBEAFE" alt="Mobile development" />
+<img src="https://img.shields.io/badge/Web-Development-FCE7F3?style=flat-square&labelColor=FBCFE8" alt="Web development" />
 
-**Backend & Data**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python,django,mongodb,postgres&theme=light" alt="Backend and database technologies"/>
+<a href="#about">About</a> &nbsp; • &nbsp;
+<a href="#stats">Statistics</a> &nbsp; • &nbsp;
+<a href="#skills">Skills</a> &nbsp; • &nbsp;
+<a href="#focus">Current Focus</a> &nbsp; • &nbsp;
+<a href="#contact">Contact</a>
 
-**Development Tools**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub and VS Code"/>
+<img src="https://komarev.com/ghpvc/?username=abdullahamjad169&label=PROFILE%20VIEWS&color=0EA5E9&style=flat-square" alt="Profile views" />
 
-</div>
-
-## 04 / Selected Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>TDM</h3>
-      <p>A Flutter download-manager project exploring media detection and download workflows.</p>
-      <p><code>Flutter</code> <code>Dart</code></p>
-      <sub>Currently in progress</sub>
-      <br/><br/>
-      <a href="https://github.com/abdullahamjad169?tab=repositories">Explore repositories →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Ryva</h3>
-      <p>An e-commerce website project focused on product presentation and online shopping.</p>
-      <p><code>Web</code> <code>E-commerce</code></p>
-      <br/>
-      <a href="https://github.com/abdullahamjad169?tab=repositories">Explore repositories →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Quran App</h3>
-      <p>A Quran application project designed around reading and straightforward navigation.</p>
-      <p><code>Flutter</code> <code>App UI</code></p>
-      <br/>
-      <a href="https://github.com/abdullahamjad169?tab=repositories">Explore repositories →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Web Experiments</h3>
-      <p>Exploring responsive interfaces, reusable components, and full-stack development.</p>
-      <p><code>React</code> <code>Next.js</code> <code>APIs</code></p>
-      <br/>
-      <a href="https://github.com/abdullahamjad169?tab=repositories">Explore repositories →</a>
-    </td>
-  </tr>
-</table>
-
-## 05 / GitHub
-
-<div align="center">
-  <a href="https://github.com/abdullahamjad169">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullahamjad169&show_icons=true&hide_border=true&bg_color=00000000&title_color=4386C6&icon_color=4386C6&text_color=7A8794" height="155" alt="GitHub statistics"/>
-  </a>
-  <a href="https://github.com/abdullahamjad169">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahamjad169&layout=compact&hide_border=true&bg_color=00000000&title_color=4386C6&text_color=7A8794" height="155" alt="Most used languages"/>
-  </a>
 </div>
 
 ---
 
+<h2 align="center" id="about">About Me</h2>
+
 <div align="center">
-  <p><em>Build thoughtfully. Learn continuously.</em></p>
-  <sub>Thanks for stopping by.</sub>
+
+### Hi, I'm Abdullah Amjad 👋
+
+*BS IT Student · Flutter & Dart Developer · Full-Stack Web Developer*
+
+</div>
+
+I'm a **BS IT student** passionate about creating clean, modern, and useful digital experiences. I enjoy learning how technology can solve real problems and make everyday tasks easier.
+
+My interests include mobile application development, responsive web design, and full-stack development. I focus on improving my problem-solving skills, writing better code, and building interfaces that are intuitive and easy to use.
+
+I believe in **continuous learning, practical experience, and steady improvement**. I'm working toward becoming a versatile developer who can turn ideas into reliable digital products.
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=18&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=40&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Improve;Turning+ideas+into+digital+experiences" alt="Learning and building animation" />
+
 </div>
