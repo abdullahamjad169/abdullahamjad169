@@ -1,16 +1,27 @@
+<!-- ============================================================================== -->
+<!-- PREMIUM FLUTTER & FULL-STACK DEVELOPER GITHUB PROFILE README                  -->
+<!-- Fully self-contained, no external local dependencies needed                   -->
+<!-- Works seamlessly in both GitHub Light Mode and Dark Mode (NO NEON)            -->
+<!-- ============================================================================== -->
+
 <p align="center">
-  <img src="assets/banner.svg" alt="Flutter &amp; Full-Stack Developer Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,50:1e293b,100:0284c7&height=220&section=header&text=Flutter%20%26%20Full-Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Crafting%20Cross-Platform%20Mobile%20Apps%20%26%20Modern%20Web%20Architectures&subfontSize=16&subfontColor=cbd5e1" width="100%" alt="Header Banner" />
 </p>
 
 <div align="center">
 
-# Hi 👋, I'm a Flutter & Full-Stack Developer 💻
+<!-- Live Typing Dynamic Subtitle -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=620&height=45&lines=Flutter+%26+Dart+Mobile+Architect;Full-Stack+Web+Developer;React+%26+Node.js+Engineer;Clean+Architecture+%26+Modern+UI" alt="Typing SVG" />
+</a>
+
+<br />
 
 <p align="center">
   A dedicated <b>Flutter Mobile Developer</b> &amp; <b>Full-Stack Web Engineer</b> passionate about crafting cross-platform mobile apps for Android &amp; iOS and modern, responsive web applications. Enthusiastic about clean architecture, scalable APIs, and contributing to open-source software.
 </p>
 
-<!-- Social Connect Badges -->
+<!-- Social Connect Badges (Matching Screenshot Style) -->
 <p align="center">
   <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
     <img src="https://img.shields.io/badge/Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
@@ -24,9 +35,12 @@
   <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<!-- Visitor Counter (Retro LED Green Digital Box) -->
+<!-- Retro LED Green Digital Visitor Counter (Exact match to screenshot) -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Visitor Counter" />
 </p>
@@ -95,7 +109,7 @@
 
 <br />
 
-<!-- Skills Section -->
+<!-- Skills Section (Strictly Flutter & Full-Stack - NO DEVOPS) -->
 ## Skills:
 
 ### Languages,Frameworks & Tools
@@ -137,4 +151,11 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+</p>
+
+<br />
+
+<!-- Bottom Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=120&section=footer" width="100%" alt="Footer Wave" />
 </p>
